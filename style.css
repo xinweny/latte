@@ -52,7 +52,9 @@ video {
 .header-card {
   text-align: center;
   padding-top: 50px;
-  padding: 20px;
+  padding-left: 100px;
+  padding-right:100px;
+  padding: 30px;
 }
 
 .footer {
