@@ -125,14 +125,23 @@ a:hover {
   .card {
     width: 700px;
   }
+  .header-card {
+    width: 700px;
+  }
 }
 @media (max-width: 720px) {
   .card {
     width: 500px;
   }
+  .header-card {
+    width: 500px;
+  }
 }
 @media (max-width: 540px) {
   .card {
+    width: 300px;
+  }
+  .header-card {
     width: 300px;
   }
 }
